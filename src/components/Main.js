@@ -16,14 +16,14 @@ export const Main = () => {
                                     <h1><Typical loop={Infinity}
                                         wrapper='b'
                                         steps={[
-                                            'Grow Your business with US',
+                                            'We are the best in the town ',
                                             1000,
                                         ]}
                                     />
                                     </h1>
-                                    <h2 className="my-3">We are the team of talented developer making website</h2>
+                                    <h2 className="my-3">We do teamwork to perform our duties</h2>
                                     <div className="mt-3">
-                                        <a href="" className="btn">Get Started</a>
+                                        <a href="" className="btn">Lets Start</a>
                                     </div>
                                 </div>
 
