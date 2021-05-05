@@ -23,7 +23,7 @@ export const Main = () => {
                                     </h1>
                                     <h2 className="my-3">We do teamwork to perform our duties</h2>
                                     <div className="mt-3">
-                                        <a href="" className="btn">Lets Start</a>
+                                        <a href="" className="button">Lets Start</a>
                                     </div>
                                 </div>
 
